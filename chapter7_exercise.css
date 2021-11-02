@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+header{
+  width: 100%;
+  height: 400px;
+}
+
+.header-img{
+  height: 400px;
+  width: 100%;
+  background-image: url(mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.header-text{
+  padding: 20px;
+}
+main{
+height: 100%;
+width: 840px;
+margin: 50px auto;
+}
+
+
+.main-visual{
+  text-align: left;
+}
+
+.main-visual-text{
+  border-bottom: 1px solid rgb(114, 112, 112);
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
